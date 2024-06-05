@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+
+title: "Effects of Promotion Mechanisms on Revenue of Sellers in an Online Marketplace"
+abstract: "This repository contains the code for the paper 'Effects of Promotion Mechanisms on Revenue of Sellers in an Online Marketplace'."
+
+authors:
+  - family-names: "Coskun"
+    given-names: "Mustafa Can"
+  - family-names: "Eren"
+    given-names: "Enver"
+  - family-names: "Kahvecioglu"
+    given-names: "Fethi"
+  - family-names: "Koksal"
+    given-names: "Ibrahim Emre"
+
+version: "1.0.0"
+date-released: "2024-06-06"
+url: "https://github.com/enverern/CMPE492"
